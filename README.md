@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kartik
 - 👀 I’m interested in AI and its applications in autonomous systems
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently working on Machine Learning algorithms
 - 📫 Reach me at kartiksinghal122@gmail.com
 
 <!---
