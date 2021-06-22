@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kartik
 - 👀 I’m interested in AI and its applications in autonomous systems
-- 🌱 I’m currently working on different Image Segmentation techniques
 - 📫 Reach me at kartiksinghal122@gmail.com
 
 <!---
