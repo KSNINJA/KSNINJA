@@ -7,7 +7,7 @@
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🎓 &nbsp; Studying Computer Science and Applied Mathematics at IIIT Delhi.
-- 💼 &nbsp; Still exploring a lot. But, broadly, I am interested in intelligent systems -> robotics, perception and other cool stuff. Currently, I am going a bit math-heavy by studying online optimization and control theory.
+- 💼 &nbsp; Still exploring a lot. But, broadly, I am interested in intelligent systems
 
 <br>
 
